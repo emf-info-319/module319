@@ -28,7 +28,7 @@ Résultat désiré à la sortie (console) :
 >Boucle do-while, itération 4<br>
 >Boucle do-while, itération 5<br>
 
-Copiez ensuite le code de votre boucle for et, sans changez la condition de sortie de votre boucle, sautez l'exécution de l'itération 3. <br><br>
+Copiez ensuite le code de votre boucle for et, **sans changer la condition de sortie de votre boucle**, sautez l'exécution de l'itération 3. <br><br>
 Résultat désiré à la sortie (console) :
 
 >Boucle for, itération 1<br>
@@ -36,7 +36,7 @@ Résultat désiré à la sortie (console) :
 >Boucle for, itération 4<br>
 >Boucle for, itération 5<br>
 
-Pour terminer, copiez ensuite le code de votre boucle while et, sans changez la condition de sortie de votre boucle, stoppez l'exécution de la boucle après l'itération 3. <br><br>
+Pour terminer, copiez ensuite le code de votre boucle while et, **sans changer la condition de sortie de votre boucle**, stoppez l'exécution de la boucle après l'itération 3. <br><br>
 Résultat désiré à la sortie (console) :
 
 >Boucle while, itération 1<br>
