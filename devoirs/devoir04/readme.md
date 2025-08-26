@@ -18,8 +18,8 @@ N’utilisez que des instructions « if », « else », « switch », « case »
 
   ## Exemple d'affichage souhaité
 ```
-  date entrée est le 12.9.2014
-  La date formatée est le 12 septembre 2014
+La date entrée est le 12.9.2014
+La date formatée est le 12 septembre 2014
 ```
 ```
 La date entrée est le 12.9.-400
