@@ -7,8 +7,8 @@
 
 ## Travail à réaliser
 
-- Pour commencer, créez un nouveau fichier Java que vous nommerez `EchangeValeurs` et que vous devez créer dans le répertoire `exercice04`.
-Il  s'agit  d'un  classique en  matière  d'algorithmique, on  désire  un  programme  qui  déclare  deux  variables, y affecte deux valeurs différentes et ensuite échange ces valeurs.
+Pour commencer, créez un nouveau fichier Java que vous nommerez `EchangeValeurs` et que vous devez créer dans le répertoire `exercice04`.
+Il s'agit d'un classique en matière d'algorithmique: on désire un programme qui déclare deux variables, y affecte deux valeurs différentes et ensuite échange ces valeurs.
 
 Pour cela, on va utiliser deux variables nommées `variable1` et `variable2` dont voici le contenu:
 - Situation de départ :
