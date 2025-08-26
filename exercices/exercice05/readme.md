@@ -43,8 +43,8 @@ Ce programme va indiquer, en fonction d'une température, s'il fait froid où ch
 - Si la température est inférieure à -10, vous afficherez "Il fait très froid".
 - Si la température est entre -10 (y compris) et 0 (non compris), vous afficherez "Il fait froid".
 - Si la température est entre 0 (y compris) et 25 (non compris), vous afficherez "Il fait normal".
-- Si la température est entre 25 (y compris) et 35, vous afficherez "Il fait chaud".
-- Si la température est supérieure à 35, vous afficherez "Il fait très chaud".
+- Si la température est entre 25 (y compris) et 35 (non compris), vous afficherez "Il fait chaud".
+- Si la température est supérieure ou égale à 35, vous afficherez "Il fait très chaud".
 
 ### Structogramme 
 Représentez un des exercices ci-dessus sous la forme d'un structogramme. 
