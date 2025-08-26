@@ -9,9 +9,9 @@ Pour chaque exercice, créez un nouveau projet dans VSCode en choisissant `"No b
 ## Exercices
 
 ### Exercice 1 : Creation de tableaux
-Déclarer puis créez un tableau d'`entier` et affichez le contenu de toutes les cellules. 
+Déclarez puis créez un tableau d'`entier` et affichez le contenu de toutes les cellules. 
 
-Déclarer et créez ensuite un tableau de `String`. Affichez également le contenu de toutes les cellules. 
+Déclarez et créez ensuite un tableau de `String`. Affichez également le contenu de toutes les cellules. 
 
 Quelle différence constatez-vous entre les deux tableaux? 
 
@@ -44,6 +44,8 @@ Exemple du résultat désiré à la sortie avec le nombre de départ 17 (console
 >Cellule 0 : 18 <br>
 >Cellule 1 : 19 <br>
 >Cellule 2 : 20 <br>
+>Cellule 3 : 21 <br>
+>Cellule 4 : 22 <br>
 
 ## Récapitulatif 
 - Découvrir les tableaux en Java
