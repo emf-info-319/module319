@@ -10,7 +10,7 @@ On vous demande d'implémenter un programme qui génère des grilles de loto. Vo
   * MAX qui contiendra la valeur maximale d'un chiffre du tirage (42).
 - Déclarez  une  méthode  nommée  genereTirage.  Cette  méthode  prendra,  comme  paramètre,  le nombre  de  chiffres  du  tirage,  le  minimum  ainsi  que  le  maximum  pour  chaque  chiffre.  Un  tableau  contenant les chiffres composant le tirage sera retourné.
 - ATTENTION : chaque chiffre doit être présent qu'une seule fois dans la grille.
-- Depuis le main, appelez la méthode genereTirageet affichez le contenu du tableau.
+- Depuis le main, appelez la méthode genereTirage et affichez le contenu du tableau.
 - Pour  effectuer  vos  tests,  vous  pouvez  changer  les  valeurs  des  constantes  MIN/ MAX (par  exemple  avec les valeurs 0 et 10) afin de vous assurer que le tirage ne contient pas de doublon (deux fois la même valeur).
 
 ## Exemple de sortie
