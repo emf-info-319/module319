@@ -28,7 +28,7 @@ Pour terminer, dans la méthode `main`, écrivez un programme qui exécute les �
 
 1. Déclarez un tableau d'entiers nommé `tableauInitial`. 
 
-2. Dans cette variable `tableauInitial`, affectez-y un nouveau tableau d'entiers d'une taille de 4. 
+2. Dans cette variable `tableauInitial`, créez un nouveau tableau d'entiers d'une taille de 4. 
 
 3. Pour chaque cellule du tableau `tableauInitial`, écrivez-y une valeur aléatoire comprise entre `MIN` et `MAX`. 
 
@@ -46,15 +46,15 @@ La sortie désirée à la console est la suivante :
 
 >Contenu du tableau initial :    <br>
 >Tableau initial [0] = 12  <br>
->Tableau initial [0] = 5  <br>
->Tableau initial [0] = 8  <br>
->Tableau initial [0] = 14 <br>
+>Tableau initial [1] = 5  <br>
+>Tableau initial [2] = 8  <br>
+>Tableau initial [3] = 14 <br>
 > <br>
 >Contenu du tableau final :  <br>
 >Tableau final [0] = 14  <br>
->Tableau final [0] = 8  <br>
->Tableau final [0] = 5  <br>
->Tableau final [0] = 12 <br>
+>Tableau final [1] = 8  <br>
+>Tableau final [2] = 5  <br>
+>Tableau final [3] = 12 <br>
 
 ## Récapitulatif
 - Se familiariser avec les tableaux en Java
