@@ -10,7 +10,7 @@ Expérimenter les types de base avec Java.
 - Déclarez la variable `age` pouvant contenir l'âge d'une personne (chiffre entier) avec le type approprié
 - Déclarez la variable `nom` pouvant contenir le prénom d'une personne
 - Affichez à la console la ligne suivante en utilisant vos variables. Le `XXX` et le `YYY` représente le contenu de vos variables.
->Je m’appelle XXX et j’ai YYY années. 
+>Je m’appelle XXX et j’ai YYY ans. 
 
 - Pour terminer, calculez et affichez l'âge qu'aura cette personne dans 10 ans.
 >Dans 10 ans, j'aurai YYY ans
